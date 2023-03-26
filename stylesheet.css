@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+.center {
+
+    position: absolute;
+    border: 2px solid black;
+    border-radius: 300px;
+    width: 500px;
+    height: 500px;
+    margin-left: 65dvh;
+    margin-right: auto;
+    margin-top: 25vh;
+    background-color: cornflowerblue;
+}
+
+.form {
+    font-size: x-large;
+}
+
+#loginLabel {
+    width: max-content;
+    font-size: xxx-large;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.body {
+    background-color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: medium;
+}
